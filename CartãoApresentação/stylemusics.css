@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(163, 230, 163);
+}
+p,
+h4,
+h5,
+h6{
+    color: rgb(31, 65, 31);
+}
+img{
+    border: 8px solid rgb(109, 189, 120);
+    background-color: rgb(184, 230, 184);
+    color:rgb(62, 117, 55);
+    width: 15%; 
+}
+button{
+
+    border: 2px solid rgb(177, 238, 177);
+    background-color:rgb(183, 209, 183);
+    color: rgb(54, 133, 58);
+    width: 10%;
+
+}
+p{
+    width: 60%;
+}
+h1,
+h2{
+
+    border: 2px solid rgb(177, 238, 180);
+    background-color:rgb(227, 255, 226);
+    color: rgb(54, 133, 65);
+    width: 50%;
+}
+h4,
+ul{
+
+    border: 2px solid rgb(177, 238, 187);
+    background-color:rgb(226, 255, 227);
+    color: rgb(54, 133, 54);
+    width: 7%;
+}   
