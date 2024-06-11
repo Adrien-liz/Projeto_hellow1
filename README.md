@@ -1,0 +1,1 @@
+🎀🎈✨Aqui são todos os arquivos que eu fiz com o projeto Hellow, dentro ou fora do SesiSenai❤ Contém até tarefas, materiais didáticos, arquivos. Espero que goste, e saiba que o curso ainda não acabou, porém aqui tem todo o meu trabalho e aprendizado!✨🎨🎈
