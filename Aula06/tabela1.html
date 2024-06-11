@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela1</title>
+
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid rgb(202, 121, 195);
+            border-collapse: collapse;
+            background-color: rgb(231, 180, 231);
+        }
+
+        th,
+        td {
+            padding-top: 10px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 40px;
+            color: white;
+        }
+
+        body {
+            background-color: rgb(249, 205, 255);
+        }
+
+        caption {
+            color: white;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <table>
+        <colgroup>
+            <col span="1" style="background-color: rgb(146, 10, 55);">
+        </colgroup>
+
+        <caption>
+            Meu nome
+        </caption>
+        
+        <tr>
+            <th>Nome</th>
+            <td>Adrian</td>
+        </tr>
+        <tr>
+            <th rowspan="2">Sobrenome</th>
+            <td>Borges</td>
+        </tr>
+        <tr>
+            <td>Carvalho</td>
+        </tr>
+        
+    </table>
+
+</body>
+
+</html>
